@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/gabrielle-ribeiro) |  
-| :---: | :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/83723369?s=96&v=4" width=115><br><sub>Ronaldo Alonso</sub>](https://github.com/RonaldoAlonso) |  
+| :---: | 
